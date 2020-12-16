@@ -25,4 +25,7 @@ Here are some ideas to get you started:
 [![Jagan's github stats](https://github-readme-stats.vercel.app/api?username=jagan96&show_icons=true&theme=tokyonight)](https://github.com/jagan96)
 
 
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-jaganchnv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siddhantsambit@gmail.com)](mailto:siddhantsambit@gmail.com)
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-jaganchnv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaganchnv@gmail.com)](mailto:jaganchnv@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagan96&layout=compact)](https://github.com/jagan96/github-readme-stats)
+
