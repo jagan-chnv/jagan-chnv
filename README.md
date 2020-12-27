@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Jagan's github stats](https://github-readme-stats.vercel.app/api?username=jagan96&show_icons=true&theme=tokyonight)](https://github.com/jagan96)
+[![Jagan's github stats](https://github-readme-stats.vercel.app/api?username=jagan-chnv&show_icons=true&theme=tokyonight)](https://github.com/jagan-chnv)
 
 
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-jaganchnv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaganchnv@gmail.com)](mailto:jaganchnv@gmail.com)
